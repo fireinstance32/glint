@@ -31,10 +31,14 @@ locked in (they open fine in Obsidian, VS Code or any text editor).
 - 🌐 **Reference cards** — paste a link and get its title, preview image and summary
 - ↔️ **Resize by dragging**, double-click to add a caption, Alt+arrows to nudge
 - ↩️ **Undo everything** — moves, resizes and deletes included
+- ✏️ **Image editor** — crop, rotate, flip, draw, arrows, text and pixelate (originals are kept)
+- 🔍 **Full-size viewer**, ▢ **frames** (rounded, shadow, polaroid, circle…) and 📐 **snap guides**
 
 ## 🗂️ Notes & organising
 
-- 📁 **Notes sidebar** with full-text search and `#tags`
+- 📁 **Notes sidebar** with folders (drag notes between them), full-text search and `#tags`
+- ✎ **Rename** a note (F2) and every link to it updates itself
+- 📌 **Pinned notes**, 🎨 **tag colours**, 🧩 **templates** and a 🗑️ **trash** you can restore from
 - 🔗 **`[[Links]]` between notes**, with backlinks showing what links here
 - 🔎 **Jump to note** (Ctrl+J) — type a few letters, press Enter
 - 📅 **Today's note** (Ctrl+D) — a fresh page for the day, one click away
@@ -82,6 +86,7 @@ Glint checks for new versions in the background. When one is ready you'll see
 | Keys | Does |
 |---|---|
 | Ctrl+S | Save |
+| F2 | Rename note |
 | Ctrl+I | Insert image / video |
 | Ctrl+K | Link card |
 | Ctrl+L | Checklist item |
@@ -93,4 +98,4 @@ Glint checks for new versions in the background. When one is ready you'll see
 
 ---
 
-<p align="center">Made with ✦ for people who think in pictures.</p>
+<p align="center">Made by <a href="https://github.com/fireinstance32">fireinstance32</a> ✦ for people who think in pictures.</p>
