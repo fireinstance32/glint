@@ -73,7 +73,7 @@ Glint checks for new versions in the background. When one is ready you'll see
 
 ## ⬇️ Install
 
-1. Go to **[Releases](https://github.com/fireinstance32/glint/releases/latest)** and download `Glint-Setup-0.5.0.exe`
+1. Go to **[Releases](https://github.com/fireinstance32/glint/releases/latest)** and download `Glint-Setup-0.5.2.exe`
 2. Run it. Windows may say *“Unknown publisher”* → click **More info → Run anyway**
    (the app isn't code-signed yet)
 3. Done — future updates arrive by themselves 🎉
