@@ -56,7 +56,9 @@ locked in (they open fine in Obsidian, VS Code or any text editor).
 
 - 💾 **Save button** that shows *Save → Saving… → ✓ Saved*
 - ⚡ **Autosave** for notes that already have a file
-- 🧷 **Crash-safe sessions** — reopen Glint and your tabs are exactly as you left them
+- 🧷 **Crash-safe sessions** — reopen Glint and your tabs (even unsaved ones) are exactly as you left them
+- 🛡️ **Safe saving** — a crash or power cut mid-save can never leave a half-written note
+- 🕘 **Version history** — the **History** button shows earlier copies of a note; view one or restore it
 - 📝 **Plain Markdown files**, images kept next to the note in a `.assets` folder
 
 ## 🎨 Make it yours
@@ -73,7 +75,7 @@ Glint checks for new versions in the background. When one is ready you'll see
 
 ## ⬇️ Install
 
-1. Go to **[Releases](https://github.com/fireinstance32/glint/releases/latest)** and download `Glint-Setup-0.5.2.exe`
+1. Go to **[Releases](https://github.com/fireinstance32/glint/releases/latest)** and download `Glint-Setup-0.6.1.exe`
 2. Run it. Windows may say *“Unknown publisher”* → click **More info → Run anyway**
    (the app isn't code-signed yet)
 3. Done — future updates arrive by themselves 🎉
