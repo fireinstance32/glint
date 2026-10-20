@@ -14,6 +14,10 @@
   &nbsp;·&nbsp; 🔄 Updates itself &nbsp;·&nbsp; 🆓 Free
 </p>
 
+<p align="center">
+  🎬 <a href="brand/glint-showcase.webm"><b>Watch the 45-second showcase</b></a>
+</p>
+
 ---
 
 ## ✨ What is Glint?
@@ -32,6 +36,7 @@ locked in (they open fine in Obsidian, VS Code or any text editor).
 - ↔️ **Resize by dragging**, double-click to add a caption, Alt+arrows to nudge
 - ↩️ **Undo everything** — moves, resizes and deletes included
 - ✏️ **Image editor** — crop, rotate, flip, draw, arrows, text and pixelate (originals are kept)
+- 🍬 **Candy gradient frame** on new pictures by default (change it in Settings → Look)
 - 🔍 **Full-size viewer**, ▢ **frames** (rounded, shadow, polaroid, circle…) and 📐 **snap guides**
 
 ## 🗂️ Notes & organising
@@ -43,9 +48,13 @@ locked in (they open fine in Obsidian, VS Code or any text editor).
 - 🔎 **Jump to note** (Ctrl+J) — type a few letters, press Enter
 - 📅 **Today's note** (Ctrl+D) — a fresh page for the day, one click away
 - 🕘 **Recent files** and **reopen closed tab** (Ctrl+Shift+T)
+- 🕸️ **Graph view** (Ctrl+G or 🕸 in the sidebar): glowing, colour-coded by folder — see how your notes link together
 
 ## ✍️ Writing
 
+- ✨ **Styled as you type**: headings, **bold**, *italic* (really slanted, in any font), ~~strike~~, ==highlight== and `code` — the `**` marks hide themselves and only show on the line you're editing
+- ▦ **Tables** shown as a real grid you type straight into: Tab / Enter to move, buttons to add or remove rows and columns
+- 🧭 **Toolbar menus**: ✨ **Style** (bold, italic, highlight, headings, quotes, lists), ＋ **Insert** (image, link card, checklist, table, date) and 🧭 **Go** (jump to note, today's note)
 - ☑️ **Checklists** — Ctrl+L, click the box to tick it
 - • **Lists continue** when you press Enter
 - 👁️ **Markdown preview** (Ctrl+E) for a clean read-only view
@@ -58,6 +67,7 @@ locked in (they open fine in Obsidian, VS Code or any text editor).
 - ⚡ **Autosave** for notes that already have a file
 - 🧷 **Crash-safe sessions** — reopen Glint and your tabs (even unsaved ones) are exactly as you left them
 - 🛡️ **Safe saving** — a crash or power cut mid-save can never leave a half-written note
+- 🗄️ **Daily backups** of your whole notes folder (the last 10), plus **Back up now** in Settings
 - 🕘 **Version history** — the **History** button shows earlier copies of a note; view one or restore it
 - 📝 **Plain Markdown files**, images kept next to the note in a `.assets` folder
 
@@ -67,6 +77,7 @@ locked in (they open fine in Obsidian, VS Code or any text editor).
 - 🎨 **Solid colours** (ink, red, orange, yellow, green, teal, purple, pink, brown, graphite) or **gradients**
 - 🔤 Choice of fonts, text size and line spacing
 - 🧰 **Toolbar** for everything — no shortcuts to memorise (but there's a sheet: Ctrl+/)
+- 👋 **Welcome note** on first launch that teaches Glint by doing (Help → Getting started brings it back)
 
 ## 🔄 Automatic updates
 
@@ -75,13 +86,13 @@ Glint checks for new versions in the background. When one is ready you'll see
 
 ## ⬇️ Install
 
-1. Go to **[Releases](https://github.com/fireinstance32/glint/releases/latest)** and download `Glint-Setup-0.6.1.exe`
+1. Go to **[Releases](https://github.com/fireinstance32/glint/releases/latest)** and download `Glint-Setup-1.0.0.exe`
 2. Run it. Windows may say *“Unknown publisher”* → click **More info → Run anyway**
    (the app isn't code-signed yet)
 3. Done — future updates arrive by themselves 🎉
 
-> Already on **0.2.0**? Install the latest version once by hand; that older version didn't
-> have the updater yet. From then on it's automatic.
+> Still on **0.2.0**? Install the latest version once by hand; that version didn't have the
+> updater yet. From then on it's automatic.
 
 ## ⌨️ Handy shortcuts
 
